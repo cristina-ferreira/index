@@ -1,6 +1,6 @@
 ###### wcs-chase-the-space-iss      [repo](https://github.com/cristina-ferreira/chase-the-space-iss)   
 ###### wcs-weather-forecast-siemens     [repo](https://github.com/cristina-ferreira/weather-forecast-siemens)  
-###### wcs-weather-forecast-ipma     [repo](https://github.com/cristina-ferreira/weather-forecast-ipma)     [gh-pages](https://cristina-ferreira.github.io/weather-forecast-ipma/)
+###### wcs-weather-forecast-ipma     [repo](https://github.com/cristina-ferreira/weather-forecast-ipma) 
 ###### wcs-express-tasks-back-front     [repo](https://github.com/cristina-ferreira/express-tasks-back-front) 
 ###### wcs-express-bloggy     [repo](https://github.com/cristina-ferreira/express-bloggy) 
 ###### wcs-express-authorization [repo](https://github.com/cristina-ferreira/express-authorization) 
